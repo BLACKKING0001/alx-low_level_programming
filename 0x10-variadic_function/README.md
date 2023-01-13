@@ -1,1 +1,1 @@
-variadic_function
+Variadic functions
